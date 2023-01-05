@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.sourcePaths": [
+        "ios/Airbnb/src/components/screens"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
